@@ -60,3 +60,4 @@ if __name__ == "__main__":
     logbook.TimedRotatingFileHandler("/Users/Vule/Documents/Python/100_Days_of_Python/days_31-33_logging/pomodoro.log", level=level, ).push_application()
 
     pomodoro()
+    
