@@ -2,7 +2,7 @@
 
 Talk Python To Me - 100 Days of Code in Python
 
-## Getting Started
+## More Info
 
 https://training.talkpython.fm
 
